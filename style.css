@@ -32,7 +32,7 @@ header {
 .link-container {
   display: flex;
   flex-direction: column;
-  margin: 10px 15px;
+  margin: 10px 25px;
 }
 
 .project-number {
