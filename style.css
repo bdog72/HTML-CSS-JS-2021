@@ -60,4 +60,12 @@ a:hover {
     /* font-family: 'Anton', sans-serif; */
     font-family: 'Permanent Marker', cursive;
   }
+
+  a {
+    font-size: 20px;
+  }
+
+  .container {
+    justify-content: flex-start;
+  }
 }
